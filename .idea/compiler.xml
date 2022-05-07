@@ -8,10 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="quickstart-demo" />
         <module name="springmvc-restful" />
-        <module name="test" />
         <module name="question-bank" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="11">
+      <module name="test" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
