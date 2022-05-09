@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>黑马面面后台管理系统 | Log in</title>
+    <title>题库后台管理系统 | Log in</title>
     <meta content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" name="viewport">
     <link rel="stylesheet" href="${pageContext.request.contextPath}/plugins/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="${pageContext.request.contextPath}/plugins/font-awesome/css/font-awesome.min.css">
@@ -23,7 +23,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
     <div class="login-logo">
-        <a href="${pageContext.request.contextPath}/login.jsp">黑马面面后台管理系统</a>
+        <a href="${pageContext.request.contextPath}/login.jsp">题库后台管理系统</a>
     </div>
     <!-- /.login-logo -->
     <div class="login-box-body">

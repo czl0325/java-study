@@ -5,7 +5,7 @@
         <span class="logo-mini"><img src="${ctx}/img/logo.png"></span>
         <span class="logo-lg">
                     <img src="${ctx}/img/export.png">
-                    <i> 黑马面面后台管理系统 </i>
+                    <i> 题库后台管理系统 </i>
                 </span>
     </a>
 
